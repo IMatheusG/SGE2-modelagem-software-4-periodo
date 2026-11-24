@@ -1,4 +1,4 @@
-# Diagrama de Classes e Componentes (Desacoplamento por Interfaces e Injeção de Dependência)
+# Diagrama de Classes e Componentes (Desacoplamento por Interfaces e Injeção de Dependência) 2.0
 
 Este diagrama demonstra a aplicação do Princípio da Inversão de Dependência (DIP) e Injeção de Dependência nos serviços centrais do **Smart Campus UniSenai**, isolando as regras de negócio de acesso e energia dos detalhes de infraestrutura (PostgreSQL, Redis, RabbitMQ, MQTT e SMTP).
 
