@@ -1,1 +1,1 @@
-Excluído
+EXCLUIDO
