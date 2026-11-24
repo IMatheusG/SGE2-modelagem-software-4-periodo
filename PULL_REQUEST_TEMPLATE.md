@@ -1,5 +1,5 @@
 # Defesa de Arquitetura de Software — Pull Request
-
+#
 ## Autor do PR
 - **Nome do Estudante:** Matheus Gabriel Souza Thimoteo
 - **Artefato(s) de Responsabilidade:** Diagrama de Classes e Componentes (`docs/architecture/diagrama-classes-componentes.mmd`)
