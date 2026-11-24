@@ -1,4 +1,4 @@
-# Defesa de Arquitetura de Software — Pull Request 2.0
+# Defesa de Arquitetura de Software — Pull Request
 
 ## Autor do PR
 - **Nome do Estudante:** Matheus Gabriel Souza Thimoteo
